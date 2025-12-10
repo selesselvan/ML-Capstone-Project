@@ -115,9 +115,9 @@ Open another terminal window and run the Streamlit application[Ensure the Flask 
 * Exposes ports 9696 (for Flask) and 8501 (for Streamlit).
 * Runs both the Flask app (predict.py) and the Streamlit app (app.py) when the container starts.
 
-# Cloud Deployment
+# Local Deployment
 
-On-going. A short video (Predict aqi video.mov) demonstrating interaction with the local deployment is attached to this repo.
+ A short video (Predict aqi video.mov) demonstrating interaction with the local deployment is attached to this repo.
 
 ## References:
 
